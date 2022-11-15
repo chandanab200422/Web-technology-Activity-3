@@ -1,6 +1,6 @@
 .p1
 {
-  font-family: Verdana. "DejaVu Sans", sana-serif;
+  font-family: Verdana, "DejaVu Sans", sana-serif;
   background-color:pink;
 }
 #two
@@ -17,9 +17,4 @@
 {
   background-color:light green;
   font-size:24px;
-}
-.p5
-{
- font-family: Verdana. "DejaVu Sans", sana-serif;
-  background-color:pink;
 }
